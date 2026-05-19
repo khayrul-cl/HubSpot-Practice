@@ -5,7 +5,7 @@ const companyId = process.env.COMPANY_ID;
 const properties ={
     firstname: "Khalid",
     lastname: "Hasan",
-    email: "khalidhasan@gmail.com",
+    email: "khalidhasan2@gmail.com",
     hs_lead_status: "NEW",
     phone: "+8801234567890",
     salary: 987654,

@@ -1,7 +1,6 @@
 import "dotenv/config";
 
 const token = process.env.HUBSPOT_ACCESS_TOKEN;
-
 const contactId = process.env.CONTACT_ID;
 
 const options = {
