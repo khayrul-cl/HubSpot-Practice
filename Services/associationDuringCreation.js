@@ -49,8 +49,3 @@ fetch(`https://api.hubapi.com/crm/objects/2026-03/contacts`,options)
 }) 
 .catch(err=>console.log("Request failed: ", err));
 
-
-
-// console.log("The token is -",properties)
-
-
